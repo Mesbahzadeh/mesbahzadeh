@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
              {/* Main Image Mask */}
              <div className="absolute inset-8 rounded-[50%_50%_50%_50%] overflow-hidden shadow-2xl bg-earth-sand">
                 <img 
-                    src="https://mesbahzadeh.pythonanywhere.com/staticfiles/media/teachers/profile/mehran.jpg" 
+                    src="/mehran.jpg" 
                     alt="Mehran Mesbahzadeh" 
                     className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
                 />
